@@ -103,8 +103,11 @@ body {
 @media (max-width: 660px) {
   #container-grid {
   grid-template-columns: 1fr;
-
   }
+ 
+  body {
+  margin: 10% 9% 5% 9%;
+}
   .container-suv {
     border-radius: 0;
   }
